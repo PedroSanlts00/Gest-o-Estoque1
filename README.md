@@ -26,7 +26,7 @@ Desenvolver um sistema para melhorar a gestão de estoque de uma empresa de com�
 
 ## 📌 Organização Scrum (Trello)
 
-[Quadro no Trello](https://trello.com/invite/b/6810e0fc038d916489fd8806/ATTIe45781c6209492365fc5988184128bfe583E4B6C/desenvolvimento-do-sistema-de-gerenciamento-de-estoque-pedro-henrique-inacio)
+[Quadro no Trello Pedro Santos](https://trello.com/invite/b/6810e0fc038d916489fd8806/ATTIe45781c6209492365fc5988184128bfe583E4B6C/desenvolvimento-do-sistema-de-gerenciamento-de-estoque-pedro-henrique-inacio)
 
 ## 🖼️ Prints do Trello
 
@@ -41,5 +41,5 @@ git clone https://github.com/PedroSantls00/Gest-o-Estoque1.git
 # Acesse a pasta do projeto
 cd Gest-o-Estoque1
 
-# (No futuro) Execute o código com Python
-python main.py
+# Execute o código com Python
+https://replit.com/@pedrohenriquein/InvolvedWeeParallelcomputing#main.py
